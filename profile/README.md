@@ -3,4 +3,5 @@ This org "file-tools" contains nifty file utlities I've created to solve problem
 - 🗜️ Image compression
 - 📆 File redating
 - 📁 Directory content summarization
-- 🔁 Converstion of file formats - CSV to MD                                       
+- 🔁 Converstion of file formats - CSV to MD
+- 🗒️ Markdown parsing and formatting                                       
